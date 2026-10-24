@@ -45,8 +45,7 @@ These are **reported counts**, not measures of individual or regional accident r
 1. Open `Saudi_Road_Safety_Analytics_Polished_FINAL.ipynb` in Google Colab or Jupyter.
 2. Run all cells. The main analysis uses the embedded, verified snapshot.
 3. To rerun the independent official-source audit, put `Road Transport Statistics 2024_AR (1).xlsx` in the notebook's current working directory before running Section 8.
-4. Find the generated charts and CSV files in `road_safety_outputs/`.
-
+4.⁠ ⁠Generated charts and CSV files are included in the repository root. Running the notebook also saves new outputs to road_safety_outputs/.
 ## Package contents
 
 - `Saudi_Road_Safety_Analytics_Polished_FINAL.ipynb` — notebook with code and saved outputs
