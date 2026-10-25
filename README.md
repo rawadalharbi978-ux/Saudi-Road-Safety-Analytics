@@ -50,10 +50,11 @@ These are **reported counts**, not measures of individual or regional accident r
 
 - `Saudi_Road_Safety_Analytics_Polished_FINAL.ipynb` — notebook with code and saved outputs
 - `README.md` — project description and methods
-- `Road Transport Statistics 2024_AR (1).xlsx` — original official source workbook
+- Saudi_Road_Safety_Academic_Report.pdf — academic project report.
+- - `Road Transport Statistics 2024_AR (1).xlsx` — original official source workbook
 - `Saudi_Road_Safety_Official_Regional_Audit.csv` — regional comparison record
-- `outputs/` — four figures and three exported CSV files
-
+  
+- Four PNG figures and three exported CSV files — saved in the repository root directory.
 ## Limitations
 
 The national comparison covers two years only. Aggregated accident counts cannot establish causality or relative regional risk without exposure measures such as population, traffic volume, or vehicle distance traveled. The project is descriptive and makes no predictive claims.
