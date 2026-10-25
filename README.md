@@ -58,3 +58,18 @@ These are **reported counts**, not measures of individual or regional accident r
 ## Limitations
 
 The national comparison covers two years only. Aggregated accident counts cannot establish causality or relative regional risk without exposure measures such as population, traffic volume, or vehicle distance traveled. The project is descriptive and makes no predictive claims.
+## Data Visualizations
+
+The following figures summarize the main findings from the Saudi road safety analysis.
+
+### 1. National Road Safety Indicators
+![National Road Safety Indicators](01_national_indicators.png)
+
+### 2. Regional Accident Distribution
+![Regional Accident Distribution](02_regional_accidents.png)
+
+### 3. Accidents Within and Outside Cities
+![Accidents Within and Outside Cities](03_within_outside_counts.png)
+
+### 4. Percentage Distribution of Accidents
+![Percentage Distribution of Accidents](04_within_outside_percentages.png)
